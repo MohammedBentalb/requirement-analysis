@@ -77,6 +77,7 @@ Use Case Diagrams provide a visual representation of system interactions. They s
 - Visualize user interactions.
 - Serve as communication tools between stakeholders and developers.
 
+![Use Case Diagram for Booking System](./alx-booking-uc.png)
 
 ---
 
@@ -96,3 +97,5 @@ Acceptance Criteria are predefined conditions that a software product must meet 
 - ✅ Upon successful payment, a confirmation message and email are sent.
 
 ---
+
+> 📁 **Repository**: [requirement-analysis](https://github.com/your-username/requirement-analysis)  
